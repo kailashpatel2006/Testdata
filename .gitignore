@@ -1,0 +1,3 @@
+#this file is for ignoring the file which you dont want to merge
+
+*.txt
